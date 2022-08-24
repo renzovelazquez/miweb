@@ -19,4 +19,5 @@ git commit -am "Mensaje de Significativo"
 git checkout branch_a_cambiar
 
 Simpre antes de hacer un merge se debe hacer un git pull origin main o master, para tenera la ultima version del repostirio remoto.
+
 git pull origin main
