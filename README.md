@@ -12,3 +12,8 @@ git commit -m "Mensaje significativo"
 * pasa pasa master a main.
 
 git branch -M main
+
+
+git commit -am "Mensaje de Significativo"
+
+git checkout branch_a_cambiar
