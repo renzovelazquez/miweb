@@ -13,6 +13,9 @@ git commit -m "Mensaje significativo"
 
 git branch -M main
 
+Tambien  se puede trabajar con la rama master en local y main en remoto. 
+
+Tambien se puede configurar por defecto  que git cre la rama main
 
 git commit -am "Mensaje de Significativo"
 
